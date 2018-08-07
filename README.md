@@ -43,4 +43,4 @@ Usage
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ferikdubbelboer%2Fnode-sleep.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ferikdubbelboer%2Fnode-sleep?ref=badge_large) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/erikdubbelboer--node-sleep.svg)](https://www.staging.guardrails.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ferikdubbelboer%2Fnode-sleep.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ferikdubbelboer%2Fnode-sleep?ref=badge_large) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/erikdubbelboer--node-sleep.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/erikdubbelboer--node-sleep.svg)](https://www.guardrails.io)
